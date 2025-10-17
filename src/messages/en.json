@@ -1,0 +1,28 @@
+{
+    "StartPage": {
+        "title": "Welcome to the Homepage!",
+        "slogan": "Website development in Zielona Góra and beyond."
+    },
+    "Navigation": {
+        "home": "Home",
+        "services": "Services",
+        "projects": "Projects",
+        "cooperation": "Cooperation",
+        "contact": "Contact"
+    },
+    "Metadata": {
+        "homeTitle": "Web Design Zielona Góra, E-commerce Solutions, Online Stores | Zielona Góra",
+        "homeDescription": "Professional website development in Zielona Góra, Sulechów, and Świebodzin. We specialize in web applications, CMS, CRM, ERP systems, and database optimization.",
+        "servicesTitle": "Full Range of Services: Websites, Apps, CMS, CRM, ERP, SEO | Zielona Góra",
+        "servicesDescription": "Comprehensive web services, including website and e-commerce design, web application development, implementation of CMS/CRM/ERP systems, and professional Search Engine Optimization (SEO).",
+        "projectsTitle": "Our Portfolio: E-commerce, Web Apps and Websites | Zielona Góra Projects",
+        "projectsDescription": "Review of completed projects: from modern websites and e-commerce shops to advanced web applications and enterprise-class systems.",
+        "cooperationTitle": "Cooperation Model and Web Project Pricing | Zielona Góra",
+        "cooperationDescription": "Learn about our process for designing and developing websites, online stores, and systems. Start collaborating with IT experts in Zielona Góra.",
+        "contactTitle": "Contact - Web Design Zielona Góra, Sulechów, Świebodzin",
+        "contactDescription": "Contact us for website design, e-commerce stores, web applications, and SEO services in Zielona Góra and surrounding areas.",
+        "ogTitle": "Website Design Zielona Góra, Online Stores | Zielona Góra",
+        "ogDescription": "Comprehensive web services: from websites and e-commerce to ERP systems and SEO.",
+        "ogSiteName": "Zielona Góra - Website Design and Web Applications"
+    }
+}

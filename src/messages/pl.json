@@ -1,0 +1,28 @@
+{
+    "StartPage": {
+        "title": "Witaj na Stronie Głównej!",
+        "slogan": "Tworzenie stron w Zielonej Górze i nie tylko."
+    },
+    "Navigation": {
+        "home": "Start",
+        "services": "Usługi",
+        "projects": "Projekty",
+        "cooperation": "Współpraca",
+        "contact": "Kontakt"
+    },
+    "Metadata": {
+        "homeTitle": "Projektowanie Stron WWW Zielona Góra, Sklepy Internetowe, Tworzenie stron www",
+        "homeDescription": "Tworzenie profesjonalnych stron WWW w Zielonej Górze, Sulechowie i Świebodzinie. Specjalizujemy się w aplikacjach webowych, systemach CMS, CRM, ERP oraz optymalizacji baz danych.",
+        "servicesTitle": "Pełen Zakres Usług: Strony, Aplikacje, CMS, CRM, ERP, SEO | Zielona Góra",
+        "servicesDescription": "Kompleksowe usługi webowe, w tym projektowanie stron i sklepów internetowych, tworzenie aplikacji webowych, wdrożenia systemów CMS/CRM/ERP oraz profesjonalne pozycjonowanie (SEO).",
+        "projectsTitle": "Nasze Realizacje: Sklepy, Aplikacje i Strony WWW | Zielona Góra Portfolio",
+        "projectsDescription": "Przegląd zrealizowanych projektów: od nowoczesnych stron internetowych i sklepów e-commerce po zaawansowane aplikacje webowe i systemy klasy biznesowej.",
+        "cooperationTitle": "Model Współpracy i Wycena Projektów Webowych | Zielona Góra",
+        "cooperationDescription": "Dowiedz się, jak wygląda proces projektowania i tworzenia stron, sklepów internetowych oraz systemów. Rozpocznij współpracę z ekspertami IT w Zielonej Górze.",
+        "contactTitle": "Kontakt - Projektowanie Stron Zielona Góra, Sulechów, Świebodzin",
+        "contactDescription": "Skontaktuj się z nami w sprawie projektowania stron WWW, sklepów internetowych, aplikacji webowych i usług pozycjonowania w Zielonej Górze i okolicach.",
+        "ogTitle": "Projektowanie Stron WWW Zielona Góra, Sklepy Internetowe | Zielona Góra",
+        "ogDescription": "Kompleksowe usługi webowe: od stron i e-commerce po systemy ERP i pozycjonowanie. Zielona Góra",
+        "ogSiteName": "Zielona Góra - Projektowanie www i Aplikacje Webowe"
+    }
+}
